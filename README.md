@@ -20,3 +20,11 @@ My journey from graduate student to technology professional.
 - [x] Create GitHub repository
 - [x] Create local repository
 - [x] Finish Git commit/push
+
+## Next Goals
+-[x] Learn Python Basics
+-[x] Learn SQL
+-[x] Build First Python Project
+-[x] Learn Pandas
+-[x] Complete Data Analysis Project
+-[x] Prepare Resume
