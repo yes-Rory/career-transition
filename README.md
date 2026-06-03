@@ -9,14 +9,14 @@ My journey from graduate student to technology professional.
 ## Skills
 - Python
 - SQL
-- git
+- Git
 - Linux
 - Docker
 
 ## Progress
-- [√] Install Python
-- [√] Install Git
-- [√] Install Visual Studio Code
-- [√] Create GitHub repository
-- [√] Create local repository
-- [√] Finish git commit/put
+- [x] Install Python
+- [x] Install Git
+- [x] Install Visual Studio Code
+- [x] Create GitHub repository
+- [x] Create local repository
+- [x] Finish Git commit/push
