@@ -1,11 +1,22 @@
 # Career Transition
 
-## 目标
+My journey from graduate student to technology professional.
+
+## Goal
 - 深圳/广州银行科技岗
 - 国企信息技术岗
 
-## 学习路线
+## Skills
 - Python
 - SQL
+- git
 - Linux
 - Docker
+
+## Progress
+- [√] Install Python
+- [√] Install Git
+- [√] Install Visual Studio Code
+- [√] Create GitHub repository
+- [√] Create local repository
+- [√] Finish git commit/put
