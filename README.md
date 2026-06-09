@@ -27,10 +27,6 @@ My journey from graduate student to technology professional.
 - [x] Complete Data Analysis Project
 - [x] Prepare Resume
 
-## Next Steps
-- Learn advanced Pandas
-- Build an E-commerce Analysis Project
-
 ### Python
 #### Basics
 - input 
@@ -38,16 +34,20 @@ My journey from graduate student to technology professional.
 - f-string
 - List
 - for
-- if/ elif / else
-- sum、max、min、len
+- if / elif / else
+- sum / max / min / len
 - def
-- file open / read ,split / write/ save 
+- file open / read / split / write / save 
 
 ### Pandas
-- read_csv, to_csv
+- read_csv / to_csv
 - filtering
-- mean / max /min/ sum/ count
+- mean / max / min / sum / count
 - apply
-- sort_values,ascending
+- sort_values / ascending
 - reset_index
 - groupby
+
+## Next Steps
+- Learn advanced Pandas
+- Build an E-commerce Analysis Project
